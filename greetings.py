@@ -2,4 +2,8 @@
 Prints hello world.
 """
 
-print('Hello world')
+
+def greet():
+    print('Hello, World!')
+
+greet()
